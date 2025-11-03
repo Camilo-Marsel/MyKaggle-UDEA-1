@@ -11,3 +11,6 @@ Usuario de Kaggle:
 
 Username: camilocespedes
 AcountNumber: 29349016
+
+Link de youtube:
+https://youtu.be/wdOpQzoQ90U
