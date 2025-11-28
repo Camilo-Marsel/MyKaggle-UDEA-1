@@ -19,7 +19,7 @@
 [[LINK_VIDEO_ENTREGA_2]](https://youtu.be/wdOpQzoQ90U)
 
 **Entrega Final:**  
-[[LINK_VIDEO_FINAL]](https://www.youtube.com/watch?v=dDf5QZuql_U)
+[[LINK_VIDEO_FINAL]](https://www.youtube.com/watch?v=VAgjZ19gy-8)
 
 ### Estructura del repositorio
 ```
