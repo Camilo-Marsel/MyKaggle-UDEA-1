@@ -1,16 +1,41 @@
-Informacion de integrantes:
+# Proyecto Final - Kaggle Competition
+## Predicción de Rendimiento en Pruebas Saber Pro
 
-Camilo Marsel Cespedes Areiza 
-C.C 1045523045 
-Ingenieria en sistemas
-[2554509] MODELOS Y SIM. DE SIST. I
+### Información del estudiante
 
-Usuario de Kaggle:
+**Nombre:** Camilo Marsel Céspedes Areiza  
+**Cédula:** 1045523045  
+**Programa:** Ingeniería de Sistemas  
+**Materia:** [2554509] Modelos y Simulación de Sistemas I
 
-<img width="485" height="180" alt="image" src="https://github.com/user-attachments/assets/a24ada40-c202-4284-9e99-cff554fafb84" />
+### Usuario de Kaggle
 
-Username: camilocespedes
-AcountNumber: 29349016
+**Username:** camilocespedes  
+**Account Number:** 29349016
 
-Link de youtube:
-https://youtu.be/wdOpQzoQ90U
+### Videos de entregas
+
+**Entrega 2:**  
+[[LINK_VIDEO_ENTREGA_2]](https://youtu.be/wdOpQzoQ90U)
+
+**Entrega Final:**  
+[[LINK_VIDEO_FINAL]](https://www.youtube.com/watch?v=dDf5QZuql_U)
+
+### Estructura del repositorio
+```
+├── README.md
+├── 01 - exploración.ipynb
+├── 02 - preprocesado.ipynb
+├── 03 - modelo con Random Forest.ipynb
+├── 04 - modelo con LightGBM.ipynb
+├── 05 - modelo con Ensemble (RF + LightGBM).ipynb
+├── 06 - modelo con Feature Engineering + LightGBM.ipynb
+├── 07 - modelo con Feature Engineering SIMPLIFICADO + LightGBM.ipynb
+└── 99 - modelo solución.ipynb
+```
+
+### Mejor modelo
+
+**Modelo:** Ensemble de Random Forest + LightGBM  
+**Accuracy en Kaggle:** 0.41497  
+**Notebook:** 99 - modelo solución.ipynb
